@@ -7,7 +7,7 @@
 - XHCI Hand-off : Enable
 - CFG Lock : Enable
 
-## Mojave
+## High Siera
 - createinstallmedia
 
 ## Device Spec
