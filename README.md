@@ -1,14 +1,14 @@
-# hackintosh-bootloader | Clover 
+# hackintosh-bootloader | OpenCore 
 
 ## Bios Setting
-- vt-d : Disable
+- vt-d : Enable
 - Serial Port : Disable
 - Graphic Adapter : IGD
 - XHCI Hand-off : Enable
-- CFG Lock : Disable
+- CFG Lock : Enable
 
-## Catalina | 10.15.7 (19H15)
-- unibeast / createinstallmedia
+## Mojave
+- createinstallmedia
 
 ## Device Spec
 - MSI H310M GAMING PLUS 
@@ -22,6 +22,3 @@
 
 ## Not Work ?
 - Intel Graphic Acceleration !
-
-## Bug
-- Login after lock screen will give you stuck / freeze
