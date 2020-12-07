@@ -2,7 +2,10 @@
 
 ## Bios Setting
 - vt-d : Disable
-- 
+- Serial Port : Disable
+- Graphic Adapter : IGD
+- XHCI Hand-off : Enable
+- CFG Lock : Disable
 
 ## Catalina | 10.15.7 (19H15)
 - unibeast / createinstallmedia
