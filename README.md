@@ -1,16 +1,24 @@
-# hackintosh-bootloader
+# hackintosh-bootloader | Clover 
 
-## Clover
+## Bios Setting
+- vt-d : Disable
+- 
 
+## Catalina | 10.15.7 (19H15)
+- unibeast / createinstallmedia
+
+## Device Spec
 - MSI H310M GAMING PLUS 
 - i5-8400
 - Intel Graphic UHD 630
 
-# Work ?
+## Work ?
 - Audio
 - Lan
 - Usb
 
-# Not Work ?
+## Not Work ?
 - Intel Graphic Acceleration !
 
+## Bug
+- Login after lock screen will give you stuck / freeze
