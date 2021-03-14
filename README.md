@@ -1,4 +1,4 @@
-# hackintosh-bootloader | Clover 
+# hackintosh-bootloader | OpenCore 
 
 ## Bios Setting
 - vt-d : Enable
@@ -19,6 +19,7 @@
 - Audio
 - Lan
 - Usb
+- Intel Graphic Acceleration
 
 ## Not Work ?
-- Intel Graphic Acceleration !
+-
